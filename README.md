@@ -1,1 +1,3 @@
 # frontend
+Ana Beatriz
+Geovanna
